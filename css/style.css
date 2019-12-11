@@ -1,0 +1,19 @@
+/*counter start*/
+.bg{
+	background-image: url(../images/moment_bg.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 500px;
+}
+.count{
+	font-size: 50px;
+	margin-top: 190px;
+}
+/*counter end*/
+/*wow start*/
+.wow_js{
+	
+	margin-top: 190px;
+}
+/*wow end*/
